@@ -5,4 +5,4 @@ Feel free to use it as you wish.
 
 ## Demo
 
-[Click here to see the site in action] (https://felipecast.github.io/chrome-extension-onboarding/)
+[Click here to see the site in action](https://felipecast.github.io/chrome-extension-onboarding/)
